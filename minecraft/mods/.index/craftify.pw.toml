@@ -1,0 +1,16 @@
+filename = 'Craftify-1.19-1.16.0-fabric.jar'
+name = 'Craftify'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '50b3ce07f0dc4104c70b43300f3bb0df2a1c8d2e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5434215
+project-id = 552277
