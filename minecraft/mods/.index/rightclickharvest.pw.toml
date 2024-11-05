@@ -1,0 +1,16 @@
+filename = 'right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar'
+name = 'RightClickHarvest'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20-Snapshot', '1.20.1', '1.20.2', '1.20.2-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4df98d617ca9343552b89aa05752ee4cea769e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4690489
+project-id = 452834

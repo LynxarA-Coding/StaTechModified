@@ -1,0 +1,16 @@
+filename = 'cloth-config-8.3.115-fabric.jar'
+name = 'Cloth Config API (Fabric/Forge/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '949d908415eb7c6b1b974a614c719b6c9f14f527'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4973443
+project-id = 348521

@@ -1,0 +1,16 @@
+filename = 'javd-fabric-4.0.1-build.2+mc1.19.2.jar'
+name = 'Just Another Void Dimension'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '844569671064915e08d7a4d6f1947807e3b57413'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4035526
+project-id = 370890

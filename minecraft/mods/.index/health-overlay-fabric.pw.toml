@@ -1,0 +1,16 @@
+filename = 'HealthOverlay-1.19.2-7.2.4.jar'
+name = 'Health Overlay (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '67fcd0a6fab1741b62c07a9f1c3ca7a3282254db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4403399
+project-id = 313219

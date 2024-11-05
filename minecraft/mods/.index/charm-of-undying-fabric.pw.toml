@@ -1,0 +1,16 @@
+filename = 'charmofundying-fabric-6.2.1+1.19.2.jar'
+name = 'Charm of Undying (Fabric 1.16.1 - 1.19.2)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0c7442e96ac0d27f076ed9a65af896aca228f68e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4603641
+project-id = 395547

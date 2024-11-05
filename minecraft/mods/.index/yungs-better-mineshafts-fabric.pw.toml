@@ -1,0 +1,16 @@
+filename = 'YungsBetterMineshafts-1.19.2-Fabric-3.2.1.jar'
+name = "YUNG's Better Mineshafts (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6d9746e75d66f021d7c27397995d7d4765aa3bbb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4876098
+project-id = 373591

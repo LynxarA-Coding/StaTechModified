@@ -1,0 +1,16 @@
+filename = 'RoughlyEnoughItems-9.1.682-fabric.jar'
+name = 'Roughly Enough Items Fabric/Forge/NeoForge (REI)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bca7d485107d0251265a5604d80d108952bde185'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4951125
+project-id = 310111

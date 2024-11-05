@@ -1,0 +1,16 @@
+filename = 'RoughlyEnoughTrades-1.19-1.0.jar'
+name = 'Roughly Enough Trades'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '48b9b7086431d1de129b4e3c180a97edd91a646b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3963321
+project-id = 664356

@@ -1,0 +1,16 @@
+filename = 'TechReborn-5.4.0.jar'
+name = 'Tech Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e3fd881c9288a87b557f3150b1f5b357ec05f10a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4102770
+project-id = 233564

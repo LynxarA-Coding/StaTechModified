@@ -1,0 +1,16 @@
+filename = 'chisel-1.4.7+1.19.2.jar'
+name = 'Chisel Reborn [Forge/Fabric/NeoForge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '727ec624ee6a3ec7629525f12e516dc69fd53412'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4047203
+project-id = 551763

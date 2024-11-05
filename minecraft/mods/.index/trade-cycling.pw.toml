@@ -1,0 +1,16 @@
+filename = 'trade-cycling-fabric-1.19.2-1.0.10.jar'
+name = 'Trade Cycling'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'c2e79edfd5c48c568e20caf8c668992a42dc26f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5001309
+project-id = 570431

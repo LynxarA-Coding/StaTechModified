@@ -1,0 +1,16 @@
+filename = 'Towns-and-Towers-v.1.10.1-FABRIC-1.19.2.jar'
+name = 'Towns and Towers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ea3acec7a2dda59ce28b98ad2c0134f2b37af5e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4102867
+project-id = 626761

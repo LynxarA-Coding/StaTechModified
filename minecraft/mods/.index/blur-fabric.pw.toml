@@ -1,0 +1,16 @@
+filename = 'blur-2.6.0.jar'
+name = 'Blur+'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '863af78e9486755bec63ee68b8ba676dc70f5313'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3848824
+project-id = 393563

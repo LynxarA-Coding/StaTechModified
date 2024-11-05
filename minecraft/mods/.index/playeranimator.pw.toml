@@ -1,0 +1,16 @@
+filename = 'player-animation-lib-fabric-1.0.2.jar'
+name = 'playerAnimator'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4b9341b70949bb285f05106cf3c8550e2b07ec31'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4418150
+project-id = 658587

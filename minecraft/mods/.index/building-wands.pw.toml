@@ -1,0 +1,16 @@
+filename = 'BuildingWands-mc1.19.2-2.6.9-release.jar'
+name = 'Building Wands'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0213f80d596d168682a569c17f559f86eef8649'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5119738
+project-id = 363392

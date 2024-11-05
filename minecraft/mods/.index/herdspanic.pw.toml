@@ -1,0 +1,16 @@
+filename = 'herdspanic-1.0.6.jar'
+name = 'HerdsPanic'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e71dcf71edd194ec95cf7d20be9faf1c277406f4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3831059
+project-id = 429383

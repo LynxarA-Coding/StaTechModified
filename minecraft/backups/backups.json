@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "?????",
+      "createTime": 1730754000105,
+      "backupLocation": "C:\\Users\\LynxarAPC\\AppData\\Roaming\\PrismLauncher\\instances\\StaTech Industry\\minecraft\\backups\\2024-11-4_22-0-0.zip",
+      "size": 10178455,
+      "ratio": 0.5686178,
+      "sha1": "1a113da2c30165ffd5c65dbbbd20f2f951c91aa4",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

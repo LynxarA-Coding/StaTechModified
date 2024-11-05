@@ -1,0 +1,16 @@
+filename = 'NethersDelight-1.0.1.jar'
+name = "Nether's Delight (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b09a14ec7277e5643a7bca653731b356aded3ec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4353098
+project-id = 701831

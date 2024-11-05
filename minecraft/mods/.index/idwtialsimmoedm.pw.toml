@@ -1,0 +1,16 @@
+filename = 'idwtialsimmoedm-0.2.0+1.19.jar'
+name = 'Idwtialsimmoedm'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b249194ef22275e05010cf2693ad92d01d52f8d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4083214
+project-id = 629373

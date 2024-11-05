@@ -1,0 +1,16 @@
+filename = 'automodpack-mc1.19.2-fabric-4.0.0-beta18.jar'
+name = 'AutoModpack'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '68f3f4a4932e7f9d9e2dd286f66b9371f38ff9c9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5740284
+project-id = 639211

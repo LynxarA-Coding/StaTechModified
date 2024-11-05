@@ -1,0 +1,16 @@
+filename = 'servercore-fabric-1.3.5+1.19.2.jar'
+name = 'ServerCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'afb8a6f3fc230a06633832f86283c9804c0a560e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4486844
+project-id = 550579

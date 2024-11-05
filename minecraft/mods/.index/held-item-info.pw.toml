@@ -1,0 +1,16 @@
+filename = 'held-item-info-1.4.0.jar'
+name = 'Held Item Info'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '868e2e751642fc8bfd410664fa7cdd19d6f13662'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4119585
+project-id = 365615

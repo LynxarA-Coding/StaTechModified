@@ -1,0 +1,16 @@
+filename = 'YungsBetterWitchHuts-1.19.2-Fabric-2.1.0.jar'
+name = "YUNG's Better Witch Huts (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8b8b65ce225c52b18284d64edec877e09c3095a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4031228
+project-id = 631403

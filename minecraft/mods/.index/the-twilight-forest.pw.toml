@@ -1,0 +1,16 @@
+filename = 'twilightforest-fabric-1.19.2-4.2.357.jar'
+name = 'The Twilight Forest'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a4db9b6f6db71ec71e68d817e85a2bbfdf8dc14a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4490392
+project-id = 227639

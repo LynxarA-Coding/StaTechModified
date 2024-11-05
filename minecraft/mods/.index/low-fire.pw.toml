@@ -1,0 +1,16 @@
+filename = 'lowfire-fabric-1.19-3.0.0.jar'
+name = 'Low Fire'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fc7313e982355998ae817cc9d2d5f3e13ac45962'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3845639
+project-id = 405532

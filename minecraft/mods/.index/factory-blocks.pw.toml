@@ -1,0 +1,16 @@
+filename = 'factory-blocks-mod-1.0.1+1.19.jar'
+name = 'Factory Blocks [Forge/Fabric/NeoForge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c1ca2aeaa05ca6ecf2dde41fd090d1ce5878fec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4322268
+project-id = 640001

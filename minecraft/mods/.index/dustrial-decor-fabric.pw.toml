@@ -1,0 +1,16 @@
+filename = 'dustrial-decor-fabric-0.5.jar'
+name = "'Dustrial Decor [Fabric]"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '93a88d15b6e6ec8663cbff61c319e32a8dfee6a7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3837296
+project-id = 592067

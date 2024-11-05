@@ -1,0 +1,16 @@
+filename = 'dummmmmmy-1.19.2-1.7.1-fabric.jar'
+name = 'MmmMmmMmmMmm (Target Dummy)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '26e1eaf68b9356fdf62341033a20265e29825551'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4410141
+project-id = 225738

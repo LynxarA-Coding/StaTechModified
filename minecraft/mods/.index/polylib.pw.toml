@@ -1,0 +1,16 @@
+filename = 'polylib-fabric-1900.0.3-build.100.jar'
+name = 'PolyLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e8c6c2a274fd07ae4f6ee2931e5c475b648eb6df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4895986
+project-id = 576589

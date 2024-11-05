@@ -1,0 +1,16 @@
+filename = 'climbladdersfast-3.0.6-1.19-fabric.jar'
+name = 'Climb Ladders Fast [Fabric/Forge]'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a85afdc732be428ad246a456145dae167fcae6d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4375180
+project-id = 459522

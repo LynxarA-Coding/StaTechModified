@@ -1,0 +1,16 @@
+filename = 'wmitaf-fabric-mc1.19-3.1.1.jar'
+name = 'WMITAF'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c48aa5d40b7af379f21cbc1f059299ea0644ed1c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4049590
+project-id = 547358

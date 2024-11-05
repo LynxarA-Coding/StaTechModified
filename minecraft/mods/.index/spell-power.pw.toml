@@ -1,0 +1,16 @@
+filename = 'spell_power-fabric-0.9.12+1.19.jar'
+name = 'Spell Power Attributes [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'af1482ebd02f86bd4b6c844b41aec67c54c0c7a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4543602
+project-id = 771265

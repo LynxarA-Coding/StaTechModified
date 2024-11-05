@@ -1,0 +1,16 @@
+filename = 'SimpleAnimatedGuns-FR-1.19.2-v1.2.jar'
+name = 'Simple Animated Guns (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9ba665d5c7323987d5a9afc9a9ae0460a75d6c49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4617120
+project-id = 664917

@@ -1,0 +1,16 @@
+filename = 'FpsReducer2-fabric-1.19.2-2.1.jar'
+name = 'FPS Reducer'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd927224666708f8bfa5cc85ede35407a647a2c3b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3931334
+project-id = 280294

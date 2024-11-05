@@ -1,0 +1,16 @@
+filename = 'youre-in-grave-danger-1.4.9.jar'
+name = "You're in Grave Danger"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75a9573456c0a796c0ba1848f9f959a72abf0c30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4503995
+project-id = 544912

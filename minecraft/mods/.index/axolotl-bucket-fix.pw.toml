@@ -1,0 +1,16 @@
+filename = 'axolotl-item-fix-1.1.4.jar'
+name = 'Axolotl Bucket Fix'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c1971002b420f92fb325c0aa72c83186f1f3c21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4126846
+project-id = 495453

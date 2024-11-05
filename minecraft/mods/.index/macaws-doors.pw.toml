@@ -1,0 +1,16 @@
+filename = 'mcw-doors-1.1.1fabric-mc1.19.2.jar'
+name = "Macaw's Doors"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8775da4a7158d24fec6a39010efbe21530f32190'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5439181
+project-id = 378646

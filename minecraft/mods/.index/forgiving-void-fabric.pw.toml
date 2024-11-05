@@ -1,0 +1,16 @@
+filename = 'forgivingvoid-fabric-1.19-7.0.0.jar'
+name = 'Forgiving Void (Fabric Edition)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b91e50297616d887bb61316b36044b050104e40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3833507
+project-id = 547687

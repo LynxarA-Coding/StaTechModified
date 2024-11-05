@@ -1,0 +1,16 @@
+filename = 'crawl-0.11.1.jar'
+name = 'Crawl (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f3735bc2287aacc8c1036e66095bb30c79ea95e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3972616
+project-id = 314579

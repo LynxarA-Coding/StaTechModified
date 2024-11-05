@@ -1,0 +1,16 @@
+filename = 'badpackets-fabric-0.2.3.jar'
+name = 'bad packets'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '276b357384d545912c703082a577e445dc4ae9d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4784363
+project-id = 615134

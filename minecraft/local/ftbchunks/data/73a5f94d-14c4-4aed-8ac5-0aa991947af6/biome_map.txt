@@ -1,0 +1,5 @@
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#637 byg:firecracker_shrubland
+#79A minecraft:lukewarm_ocean
+#67B minecraft:savanna

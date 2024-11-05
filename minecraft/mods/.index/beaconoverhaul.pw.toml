@@ -1,0 +1,16 @@
+filename = 'BeaconOverhaul-1.7.3+1.19.2.jar'
+name = 'Beacon Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a563a48ff60468827be97a493f449c1c4226b906'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3983948
+project-id = 430382

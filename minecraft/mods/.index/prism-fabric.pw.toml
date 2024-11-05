@@ -1,0 +1,16 @@
+filename = 'Prism-1.19.2-fabric-1.0.3.jar'
+name = 'Prism [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '21ff90e99c357f407cf170d36bc5387e01d88706'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4030091
+project-id = 665526

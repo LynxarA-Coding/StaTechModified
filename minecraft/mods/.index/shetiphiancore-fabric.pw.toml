@@ -1,0 +1,16 @@
+filename = 'shetiphiancore-fabric-1.19.2-1.3.12.jar'
+name = 'ShetiPhianCore [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5168320b6640e9c77032240c02555832626edb85'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4841868
+project-id = 536603

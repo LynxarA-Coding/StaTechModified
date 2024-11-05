@@ -1,0 +1,16 @@
+filename = 'pling-1.5.0.jar'
+name = 'Pling'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.17', '1.17.1', '1.18', '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '352ad6d9b5f579c4f0f9c0bee0342cda7c941aff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3550632
+project-id = 365521

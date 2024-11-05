@@ -1,0 +1,16 @@
+filename = 'Ad-Astra-Giselle-Addon-fabric-1.19.2-1.18.jar'
+name = 'Ad Astra: Giselle Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd46ae4b749c6179cb94347d048ea100ebce4bb95'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4718911
+project-id = 714958

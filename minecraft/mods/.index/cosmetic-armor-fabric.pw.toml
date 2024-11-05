@@ -1,0 +1,16 @@
+filename = 'CosmeticArmor-1.19-1.4.2.jar'
+name = 'Cosmetic Armor [FABRIC]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '72339b1cb9142f1a1ca4a4d306aaa9628f942151'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4447163
+project-id = 436659

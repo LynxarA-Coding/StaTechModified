@@ -1,0 +1,16 @@
+filename = 'dark-loading-screen-1.6.12.jar'
+name = 'Dark Loading Screen'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4e1ab6a2e3ec77bd95a342629de03e3467e8d856'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3845449
+project-id = 365727

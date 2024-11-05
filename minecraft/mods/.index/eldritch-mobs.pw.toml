@@ -1,0 +1,16 @@
+filename = 'eldritch-mobs-1.13.2.jar'
+name = 'Eldritch Mobs'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0dd1648ecc0e50a1740a2791d70dfe9b870ba83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4755430
+project-id = 392015

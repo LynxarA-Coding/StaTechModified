@@ -1,0 +1,16 @@
+filename = 'TerraBlender-fabric-1.19.2-2.0.1.166.jar'
+name = 'TerraBlender (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '33b0ed2f41947f3ab94e94ff286a611cfe33cd30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4618489
+project-id = 565956

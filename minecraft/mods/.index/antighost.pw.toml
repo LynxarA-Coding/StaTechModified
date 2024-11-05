@@ -1,0 +1,16 @@
+filename = 'antighost-1.19.1-fabric0.58.5-1.1.5.jar'
+name = 'AntiGhost'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de93b03bbb5d5673d5b7a48e1b4ebb25a7353ce8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3907240
+project-id = 273279

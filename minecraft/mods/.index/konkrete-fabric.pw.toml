@@ -1,0 +1,16 @@
+filename = 'konkrete_fabric_1.8.0_MC_1.19.1-1.19.2.jar'
+name = 'Konkrete [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eaaa52133f4b393e559b30fbb4feaa6eb533dac1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5028399
+project-id = 416797

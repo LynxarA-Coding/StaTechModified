@@ -1,0 +1,16 @@
+filename = 'Patchouli-1.19.2-77-FABRIC.jar'
+name = 'Patchouli (Fabric/Quilt)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '668cf78f543d43412453759961adeac4fabcafeb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4031404
+project-id = 393236

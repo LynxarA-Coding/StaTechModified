@@ -1,0 +1,16 @@
+filename = 'libIPN-fabric-1.19-4.0.2.jar'
+name = 'libIPN'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59c4c4b649d8cfa15b32acabc131cdcf3c5ccbf1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5208505
+project-id = 679177

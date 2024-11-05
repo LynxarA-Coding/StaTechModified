@@ -1,0 +1,16 @@
+filename = 'xercapaint-fabric-1.19.2-1.0.3.jar'
+name = 'Joy of Painting'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff4fa04946598d8dae254541ad6a07c7aaab3966'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5578108
+project-id = 350727

@@ -1,0 +1,16 @@
+filename = 'jecalculation-fabric-1.19.2-4.0.4.jar'
+name = 'Just Enough Calculation'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '00a231a35b055d2b9bb3ff96e4fb846ff168520d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5088778
+project-id = 242223

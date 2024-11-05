@@ -1,0 +1,16 @@
+filename = 'Iceberg-1.19.1-fabric-1.0.46.jar'
+name = 'Iceberg [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3922111
+project-id = 539382

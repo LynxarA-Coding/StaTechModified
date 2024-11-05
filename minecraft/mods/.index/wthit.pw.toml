@@ -1,0 +1,16 @@
+filename = 'wthit-fabric-5.24.0.jar'
+name = 'WTHIT'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5253f3b526f44b3cb75dcdd75b16457f34f4a404'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5208193
+project-id = 440979

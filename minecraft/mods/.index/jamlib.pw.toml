@@ -1,0 +1,16 @@
+filename = 'jamlib-0.6.1+1.19-1.19.2.jar'
+name = 'JamLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f7c4f9fa719ca15d088ae4e1c1605b7b22fb70b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4662538
+project-id = 623764

@@ -1,0 +1,16 @@
+filename = 'catwalks-inc-1.3.1.jar'
+name = 'Catwalks Inc.'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd4d41999ed633ab7326b4d8abb60f84581a4ee0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3912708
+project-id = 554340

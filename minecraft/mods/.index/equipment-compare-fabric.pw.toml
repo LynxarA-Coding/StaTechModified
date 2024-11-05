@@ -1,0 +1,16 @@
+filename = 'EquipmentCompare-1.19-fabric-1.3.1.jar'
+name = 'Equipment Compare [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1a84286cd189a8335b02d90ecf5737c0bb191aac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3848278
+project-id = 541329

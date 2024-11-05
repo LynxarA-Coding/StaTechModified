@@ -1,0 +1,16 @@
+filename = 'Modern-Dynamics-0.6.1-beta.jar'
+name = 'Modern Dynamics'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e61ba7da211094f4c811987ca7f8a92b1e03c401'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4562941
+project-id = 552758

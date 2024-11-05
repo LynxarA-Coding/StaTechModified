@@ -1,0 +1,16 @@
+filename = 'wirelesschargers-1.0.9-fabric-mc1.19.2.jar'
+name = 'Wireless Chargers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f12c68bab660ed5688c32335c2d79df4af6de49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4591917
+project-id = 510656

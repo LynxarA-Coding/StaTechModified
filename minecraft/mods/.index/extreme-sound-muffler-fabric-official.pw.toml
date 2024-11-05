@@ -1,0 +1,16 @@
+filename = 'extremesoundmuffler-3.39-fabric-1.19.2.jar'
+name = 'Extreme sound muffler - Fabric'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'debc21c5113ba4bce216e07bd435b9c62579a9be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4821190
+project-id = 566140

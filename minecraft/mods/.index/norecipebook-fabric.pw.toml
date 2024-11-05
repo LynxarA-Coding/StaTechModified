@@ -1,0 +1,16 @@
+filename = 'norecipebook-2.4+1.19.4.jar'
+name = 'No Recipe Book (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab663c01d1829ea99aea0fe599677e7d0af06ef1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4763532
+project-id = 491407

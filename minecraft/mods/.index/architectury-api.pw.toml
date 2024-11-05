@@ -1,0 +1,16 @@
+filename = 'architectury-6.6.92-fabric.jar'
+name = 'Architectury API (Fabric/Forge/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '311131ec6f39cae9a3be0782b7da5d9450119285'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5137941
+project-id = 419699

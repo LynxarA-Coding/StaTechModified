@@ -1,0 +1,16 @@
+filename = 'logical_zoom-0.0.17.jar'
+name = 'Logical Zoom'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e7e2dbbedfa5fe7d47673026d40152882982357'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3919920
+project-id = 356461

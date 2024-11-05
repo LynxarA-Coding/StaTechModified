@@ -1,0 +1,16 @@
+filename = 'beenfo-1.19.1-fabric0.58.5-1.3.3-spigot.jar'
+name = 'Beenfo'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b49c63ac3ce07930e3472c212dec1dc25454021'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3907293
+project-id = 357256

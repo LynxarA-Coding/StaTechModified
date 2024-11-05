@@ -1,0 +1,16 @@
+filename = 'botarium-fabric-1.19.2-1.9.2.jar'
+name = 'Botarium'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df8a7cc20ef0f393a7c8acc163d7870079d71bcd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5118247
+project-id = 704113

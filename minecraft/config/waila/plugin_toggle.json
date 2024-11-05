@@ -1,0 +1,23 @@
+{
+  "megane:applied-energistics-2": true,
+  "megane:create": true,
+  "megane:kibe": true,
+  "megane:modern-dynamics": true,
+  "megane:reborn-core": true,
+  "megane:tech-reborn": true,
+  "mi:server": true,
+  "mi:client": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waila:team_reborn_energy": true,
+  "waila:test": false,
+  "waystones:wthit": true,
+  "ae2:wthit": true,
+  "megane:plugin": true,
+  "polymer:main": true,
+  "cimtb:cimtb_plugin": true,
+  "wmitaf:wthit_plugin": true
+}

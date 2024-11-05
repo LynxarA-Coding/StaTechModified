@@ -1,0 +1,16 @@
+filename = 'modmenu-4.2.0-beta.2.jar'
+name = 'Mod Menu'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6e627ee1b31f5be89e14c85e888f47463d8da9c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4401051
+project-id = 308702

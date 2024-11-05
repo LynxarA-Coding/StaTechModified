@@ -1,0 +1,16 @@
+filename = 'weaponmaster-multi-fabric-1.19-3.0.2.jar'
+name = "YDM's Weapon Master"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eeaa0f37fa0d85522d92515382d9eae65877584e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4001578
+project-id = 608235

@@ -1,0 +1,16 @@
+filename = 'smoothboot-fabric-1.19-1.7.1.jar'
+name = 'Smooth Boot (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8414cbce145a5f48102e6cc811dfd1459afe44f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3821513
+project-id = 415758

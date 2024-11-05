@@ -1,0 +1,16 @@
+filename = 'enhancedblockentities-0.7.2+1.19.2.jar'
+name = 'Enhanced Block Entities'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fde7ffee932782c7718fd0596864aa9058b7b93c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4046700
+project-id = 452046

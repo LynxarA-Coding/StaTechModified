@@ -1,0 +1,16 @@
+filename = 'satin-1.9.1.jar'
+name = 'Satin API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '3eb1b255fcf2f1953e050a5063286408a1eceaaf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4997253
+project-id = 385463

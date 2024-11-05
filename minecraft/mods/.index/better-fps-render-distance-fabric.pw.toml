@@ -1,0 +1,16 @@
+filename = 'betterfpsdist-fabric-1.19.2-4.2.jar'
+name = 'Better Fps - Render Distance[Fabric]'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71c1dab8bd58cae3d80d4380f44026a3fcda389e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5100241
+project-id = 582640

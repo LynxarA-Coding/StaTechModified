@@ -1,0 +1,16 @@
+filename = 'another_furniture-fabric-1.19.2-2.1.4.jar'
+name = 'Another Furniture'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'b4c10f57796cf38b6fee9827c5d2aa51db5d3fdb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4675542
+project-id = 610492

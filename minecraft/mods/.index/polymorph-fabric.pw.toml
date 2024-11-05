@@ -1,0 +1,16 @@
+filename = 'polymorph-fabric-0.46.6+1.19.2.jar'
+name = 'Polymorph (Fabric 1.16.1 - 1.19.2)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8517e8ef9e272edfd9552d6d2c04e9faf4ae6831'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5222153
+project-id = 397434

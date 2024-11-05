@@ -1,0 +1,16 @@
+filename = 'Couplings-1.9.1+1.19.jar'
+name = 'Couplings'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8adcc4d19154e3e79a754700519daf5c80821acf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3912405
+project-id = 311120

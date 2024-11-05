@@ -1,0 +1,16 @@
+filename = 'ToastManager-1.19.2-1.0.1.jar'
+name = 'Toast Manager'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '13e2bff12b97ce8197f71737ee8da90a85966bc7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3953164
+project-id = 662724
