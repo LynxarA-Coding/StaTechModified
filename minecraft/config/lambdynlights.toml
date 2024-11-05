@@ -57,6 +57,22 @@ mode = "fancy"
 				pufferfish = true
 				tropical_fish = true
 				dolphin = true
+				turtle = true
+				pillager = true
+				llama = true
+				parrot = true
+				armor_stand = true
+				item_frame = true
+				painting = true
+				piglin = true
+				experience_orb = true
+				piglin_brute = true
+				potion = true
+				goat = true
+				wither_skeleton = true
+				phantom = true
+				wolf = true
+				slime = true
 
 			[light_sources.settings.entities.naturalist]
 				coral_snake = true
@@ -73,6 +89,15 @@ mode = "fancy"
 				rhino = true
 				lion = true
 				elephant = true
+				giraffe = true
+				vulture = true
+				butterfly = true
+				tortoise = true
+				zebra = true
+				hippo = true
+				rattlesnake = true
+				canary = true
+				snake = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -85,4 +110,11 @@ mode = "fancy"
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
+
+			[light_sources.settings.entities.ecologics]
+				coconut_crab = true
+				squirrel = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 

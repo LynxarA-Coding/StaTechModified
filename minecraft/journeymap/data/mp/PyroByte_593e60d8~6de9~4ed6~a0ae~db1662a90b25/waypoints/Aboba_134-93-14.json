@@ -1,0 +1,22 @@
+{
+  "id": "Aboba_134-93-14",
+  "name": "Aboba",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1728710-waypoint-icon.png",
+  "x": 134,
+  "y": 93,
+  "z": 14,
+  "r": 229,
+  "g": 159,
+  "b": 58,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
